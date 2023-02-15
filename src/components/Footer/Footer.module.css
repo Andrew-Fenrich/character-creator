@@ -6,3 +6,8 @@
   text-align: center;
 }
 
+.footer a{
+  /*inherit is preferable to avoid future updating concerns */
+  color: inherit;
+}
+
